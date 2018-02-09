@@ -1,5 +1,5 @@
- ### AppStarer
- ## React Front-End designed for a block chain AppTrade Company
+ ## AppStarer
+ ### React Front-End designed for a block chain AppTrade Company
 
 Designed By :
 Jeffrey Ware and Debray Carpenter
