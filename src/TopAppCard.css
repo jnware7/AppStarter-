@@ -1,0 +1,44 @@
+.app-card2{
+  height: 350px;
+  width: 100%;
+  margin-top:10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.app-image2{
+  width:600px;
+  height: 350px;
+}
+.top-ten2{
+  width:200px;
+  height:40px;
+  background-color: royalblue;
+  color: white;
+  z-index: 10;
+  position: absolute;
+  margin-left: 1.8rem;
+ left:-1px;
+  padding:10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.top-ten2 h3{
+    font-size:12px;
+}
+.app-summary{
+  color: black;
+  width: 80%;
+}
+.app-type{
+  margin-top: 50px;
+  padding-left:20px;
+  padding-right:20px;
+}
+.author-row{
+  padding: 5px 20px;
+}
+.author-img{
+  margin-top: 10px;
+  border-radius:50%;
+  border: 1px solid grey ;
+  height: 40px;
+  width: 40px;
+}
