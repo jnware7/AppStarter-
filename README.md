@@ -1,10 +1,9 @@
-
--  React Front-End designed for a block chain AppTrade Company.
+ React Front-End designed for a block chain AppTrade Company.
 
 Designed By :
 Jeffrey Ware and Debray Carpenter
 
-##To view Appstarter:
+## To view Appstarter:
  - clone the repo
  - run npm i
  - run npm start
